@@ -1,0 +1,14 @@
+{
+  "name": "SScript",
+  "url": "https://github.com/CobaltBar/SScript-Archive",
+  "license": "Apache",
+  "tags": ["hscript", "sscript", "haxescript"],
+  "description": "An easy-to-use Haxe Script class for all targets.",
+  "version": "1.9.9",
+  "classPath": "src/",
+  "releasenote": "Conditional compilation, dynamic functions, overhaul SScript class + bug fixes. (Unfinished)",
+  "contributors": ["TheWorldMachinima", "TahirRollingArch"],
+  "dependencies": {
+    
+  }
+}
